@@ -2,7 +2,7 @@
 shrike lite FPGA projects are available in this repository
 
 To write verilog code for this Shrike Lite FPGA u need
-1) "Go Configure Software Hub"
+1) "Go Configure Software Hub" </n>
    https://www.renesas.com/en/software-tool/go-configure-software-hub#overview
 2) for simulation of verilog code in "Go Configure Software Hub software", u need icarus verilog
    https://bleyer.org/icarus/

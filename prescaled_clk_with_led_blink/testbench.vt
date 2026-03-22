@@ -1,0 +1,50 @@
+// Custom testbench
+
+`timescale 1ns / 1ps
+
+module testbench_tb;
+
+reg clk,reset;
+wire clk_out,osc_en,clk_out_oe;
+
+initial
+begin
+clk = 1'b0;
+reset = 1'b0;
+end
+
+
+always
+#1 clk = ~clk;
+
+clk_prescaler uut(clk,reset, clk_out_oe, osc_en, clk_out);
+
+  initial begin
+
+    $dumpfile ("testbench_tb.vcd");
+    $dumpvars (0, testbench_tb);
+
+    
+    #10;
+    reset = 1'b1;
+    
+        #10;
+    reset = 1'b0;
+    
+    #1000;
+
+    $finish;
+    
+    
+    
+    
+    
+  end
+
+endmodule
+
+
+
+
+
+

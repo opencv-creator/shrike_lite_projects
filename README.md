@@ -1,4 +1,5 @@
 # shrike_lite_projects
+   ----------------------------------------------------------------------------------------------------
 shrike lite FPGA projects are available in this repository  ( use only 3.3v as input voltage to shrike lite FPGA GPIO pins )
 
 To write verilog code for this Shrike Lite FPGA u need

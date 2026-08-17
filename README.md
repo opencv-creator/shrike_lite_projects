@@ -26,5 +26,6 @@ To write verilog code for this Shrike Lite FPGA u need
    so GPIO2 is the pysical oin 15 on the ic
    and we used FPGAIO to distinguish between fpga and rp2040 io otherwise it will be confusing.
 
-   <img width="1280" height="960" alt="SHRIKE LITE FPGA CPU PINS INTERNAL CONNECTION TABLE" src="https://github.com/user-attachments/assets/99ec59a3-3f31-4151-8422-b67655731168" />
+
+<img width="778" height="633" alt="shrike lite pin out table" src="https://github.com/user-attachments/assets/e450d643-9795-4f01-ad1c-398f36952c2f" />
 

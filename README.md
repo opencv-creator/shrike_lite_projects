@@ -21,6 +21,8 @@ To write verilog code for this Shrike Lite FPGA u need
    ----------------------------------------------------------------------------------------------------
    SHRIKE LITE FPGA I-O MAPPING PIN CONFUSION
 
+   <img width="1599" height="925" alt="shrike lite FPGA i-o mapping" src="https://github.com/user-attachments/assets/ffdb987c-0442-4904-91ab-ac748543f977" />
+
    FPGAIO2 is the GPIO2
    
    pin15 pins the physical pin on the ic

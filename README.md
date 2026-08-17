@@ -32,6 +32,8 @@ To write verilog code for this Shrike Lite FPGA u need
 
  4) and we used FPGAIO to distinguish between fpga and rp2040 io otherwise it will be confusing.
 
+The below table has FPGA (CPU) chip pins which are internally connected to RP2040 microcntroller
+
 
 <img width="778" height="633" alt="shrike lite pin out table" src="https://github.com/user-attachments/assets/e450d643-9795-4f01-ad1c-398f36952c2f" />
 

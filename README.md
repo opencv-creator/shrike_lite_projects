@@ -14,9 +14,11 @@ To write verilog code for this Shrike Lite FPGA u need
    
    https://www.macnica.co.jp/en/business/semiconductor/articles/renesas/146328/
    
-5) shrike lite fpga full adder verilog code demo https://www.youtube.com/watch?v=Ufa__6MhEqY
+5) shrike lite fpga full adder verilog code demo
+  
+   https://www.youtube.com/watch?v=Ufa__6MhEqY
    
-6) use thonny ide software ( https://thonny.org ) for uploading bitstream file into shrike lite fpga
+8) use thonny ide software ( https://thonny.org ) for uploading bitstream file into shrike lite fpga
 
    https://www.youtube.com/watch?v=OT5bMX5sSow
 

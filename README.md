@@ -15,3 +15,17 @@ To write verilog code for this Shrike Lite FPGA u need
    
 5) use thonny ide software ( https://thonny.org ) for uploading bitstream file into shrike lite fpga
    https://www.youtube.com/watch?v=OT5bMX5sSow
+
+
+
+   ----------------------------------------------------------------------------------------------------
+   SHRIKE LITE FPGA I-O MAPPING PIN CONFUSION
+
+   FPGAIO2 is the GPIO2
+   pin15 pins the physical pin on the ic
+   so GPIO2 is the pysical oin 15 on the ic
+   and we used FPGAIO to distinguish between fpga and rp2040 io otherwise it will be confusing.
+
+
+<img width="778" height="633" alt="shrike lite pin out table" src="https://github.com/user-attachments/assets/e450d643-9795-4f01-ad1c-398f36952c2f" />
+

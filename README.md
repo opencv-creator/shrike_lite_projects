@@ -19,18 +19,18 @@ To write verilog code for this Shrike Lite FPGA u need
 
 
    ----------------------------------------------------------------------------------------------------
-   # SHRIKE LITE FPGA I-O MAPPING PIN CONFUSION
+# SHRIKE LITE FPGA I-O MAPPING PIN CONFUSION
 
    <img width="1599" height="925" alt="shrike lite FPGA i-o mapping" src="https://github.com/user-attachments/assets/ffdb987c-0442-4904-91ab-ac748543f977" />
    
 
-   FPGAIO2 is the GPIO2
+ 1) FPGAIO2 is the GPIO2
    
-   pin15 pins the physical pin on the ic
-   
-   so GPIO2 is the pysical oin 15 on the ic
-   
-   and we used FPGAIO to distinguish between fpga and rp2040 io otherwise it will be confusing.
+ 2) pin15 pins the physical pin on the ic
+
+ 3) so GPIO2 is the pysical oin 15 on the ic
+
+ 4) and we used FPGAIO to distinguish between fpga and rp2040 io otherwise it will be confusing.
 
 
 <img width="778" height="633" alt="shrike lite pin out table" src="https://github.com/user-attachments/assets/e450d643-9795-4f01-ad1c-398f36952c2f" />

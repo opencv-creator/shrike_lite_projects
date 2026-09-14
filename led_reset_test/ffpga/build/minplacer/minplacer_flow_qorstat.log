@@ -1,0 +1,26 @@
+#COLLECTE 4 WINNING_JOBS
+##PARALLEL JOB[3] (2,expjob_2) timing=12089 dir=minplacer\00002_pa02_00006_rplan
+##PARALLEL JOB[2] (3,expjob_3) timing=12029 dir=minplacer\00003_pa03_00006_rplan
+##PARALLEL JOB[1] (1,expjob_1) timing=12029 dir=minplacer\00001_pa01_00006_rplan
+##PARALLEL JOB[0] (0,expjob_0) timing=11289 dir=minplacer\00000_pa00_00006_rplan
+PrePlaceDly=44735
+#PLC_RUNDIR=minplacer\00000_pa00_00003_wl timing=5263 cg=0
+PlaceDly=5263
+TWL=1150
+PEAKMEM=1304MB
+#PLC_RUNDIR=minplacer\00000_pa00_00004_repopt timing=5263 cg=0
+PlaceDly=5263
+TWL=1150
+PEAKMEM=1337MB
+#PLC_RUNDIR=minplacer\00000_pa00_00005_post timing=11289 cg=0
+PostIter=6
+PlaceDly=11289
+TWL=1150
+PEAKMEM=1415MB
+TotPostIter=6
+#PLC_RUNDIR=minplacer\00000_pa00_00006_rplan timing=11289 cg=50
+FinderPnRatio=50
+FinderPnIter=0
+PlaceDly=11289
+PEAKMEM=1374MB
+ParWin                              =expjob_0

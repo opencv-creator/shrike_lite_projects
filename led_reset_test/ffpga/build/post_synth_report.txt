@@ -1,0 +1,22 @@
+
+8. Printing statistics.
+
+=== led_test ===
+
+        +----------Local Count, excluding submodules.
+        | 
+       49 wires
+      133 wire bits
+       49 public wires
+      133 public wire bits
+        5 ports
+        5 port bits
+       55 cells
+        8   CARRY4
+       33   FDRE
+        2   INV
+        4   LUT2
+        2   LUT4
+        4   LUT5
+        2   LUT6
+

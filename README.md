@@ -6,23 +6,23 @@ To write verilog code for this Shrike Lite FPGA u need
    
    https://www.renesas.com/en/software-tool/go-configure-software-hub#overview
    
-3) for simulation of verilog code in "Go Configure Software Hub software", u need icarus verilog
+2) for simulation of verilog code in "Go Configure Software Hub software", u need icarus verilog
    
    https://bleyer.org/icarus/
    
-4) use this renesas manual for configuring icarus verilog in  "Go Configure Software Hub software"
+3) use this renesas manual for configuring icarus verilog in  "Go Configure Software Hub software"
    
    https://www.macnica.co.jp/en/business/semiconductor/articles/renesas/146328/
    
-5) shrike lite fpga full adder verilog code demo
+4) shrike lite fpga full adder verilog code demo
   
    https://www.youtube.com/watch?v=Ufa__6MhEqY
    
-8) use thonny ide software ( https://thonny.org ) for uploading bitstream file into shrike lite fpga
+5) use thonny ide software ( https://thonny.org ) for uploading bitstream file into shrike lite fpga
 
    https://www.youtube.com/watch?v=OT5bMX5sSow
 
-9) Seven Ways Your MCU Can Talk to FPGA : On Shrike
+6) Seven Ways Your MCU Can Talk to FPGA : On Shrike
 
     https://blog.vicharak.in/7-ways-your-mcu-can-talk-to-fpga-on-shrike/
 

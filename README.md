@@ -22,6 +22,10 @@ To write verilog code for this Shrike Lite FPGA u need
 
    https://www.youtube.com/watch?v=OT5bMX5sSow
 
+9) 7 Ways Your MCU Can Talk to FPGA : On Shrike
+
+    https://blog.vicharak.in/7-ways-your-mcu-can-talk-to-fpga-on-shrike/
+
 
 
    ----------------------------------------------------------------------------------------------------
